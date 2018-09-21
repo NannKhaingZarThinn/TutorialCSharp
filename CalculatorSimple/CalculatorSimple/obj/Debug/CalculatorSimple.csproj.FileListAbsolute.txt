@@ -1,0 +1,10 @@
+D:\C###\CalculatorSimple\CalculatorSimple\bin\Debug\CalculatorSimple.exe.config
+D:\C###\CalculatorSimple\CalculatorSimple\bin\Debug\CalculatorSimple.exe
+D:\C###\CalculatorSimple\CalculatorSimple\bin\Debug\CalculatorSimple.pdb
+D:\C###\CalculatorSimple\CalculatorSimple\obj\Debug\CalculatorSimple.csprojAssemblyReference.cache
+D:\C###\CalculatorSimple\CalculatorSimple\obj\Debug\CalculatorSimple.Form1.resources
+D:\C###\CalculatorSimple\CalculatorSimple\obj\Debug\CalculatorSimple.Properties.Resources.resources
+D:\C###\CalculatorSimple\CalculatorSimple\obj\Debug\CalculatorSimple.csproj.GenerateResource.cache
+D:\C###\CalculatorSimple\CalculatorSimple\obj\Debug\CalculatorSimple.csproj.CoreCompileInputs.cache
+D:\C###\CalculatorSimple\CalculatorSimple\obj\Debug\CalculatorSimple.exe
+D:\C###\CalculatorSimple\CalculatorSimple\obj\Debug\CalculatorSimple.pdb
