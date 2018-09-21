@@ -1,0 +1,11 @@
+D:\C###\SalesSystemProject\SalesSystemProject\bin\Debug\Login.accdb
+D:\C###\SalesSystemProject\SalesSystemProject\bin\Debug\SalesSystemProject.exe.config
+D:\C###\SalesSystemProject\SalesSystemProject\bin\Debug\SalesSystemProject.exe
+D:\C###\SalesSystemProject\SalesSystemProject\bin\Debug\SalesSystemProject.pdb
+D:\C###\SalesSystemProject\SalesSystemProject\obj\Debug\SalesSystemProject.csprojAssemblyReference.cache
+D:\C###\SalesSystemProject\SalesSystemProject\obj\Debug\SalesSystemProject.Form1.resources
+D:\C###\SalesSystemProject\SalesSystemProject\obj\Debug\SalesSystemProject.Properties.Resources.resources
+D:\C###\SalesSystemProject\SalesSystemProject\obj\Debug\SalesSystemProject.csproj.GenerateResource.cache
+D:\C###\SalesSystemProject\SalesSystemProject\obj\Debug\SalesSystemProject.csproj.CoreCompileInputs.cache
+D:\C###\SalesSystemProject\SalesSystemProject\obj\Debug\SalesSystemProject.exe
+D:\C###\SalesSystemProject\SalesSystemProject\obj\Debug\SalesSystemProject.pdb
